@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allanlealluz" alt="allanlealluz" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django** and **Bootstrap**
 
 - 📫 How to reach me **allanlealluz@gmail.com**
 
