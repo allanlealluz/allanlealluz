@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django** and **Bootstrap**
 
-- 📫 How to reach me **allanlealluz@gmail.com**
+- 📫 How to reach me **allanlealluz@gmail.com** and **https://app.rocketseat.com.br/me/allan-leal-da-luz-03951**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
