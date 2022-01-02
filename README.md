@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allanlealluz&label=Profile%20views&color=0e75b6&style=flat" alt="allanlealluz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allanlealluz" alt="allanlealluz" /></a> </p>
-
+<img src='https://www.codewars.com/users/allanlealluz/badges/large'>
 - 🌱 I’m currently learning **Django** and **Bootstrap**
 
 - 📫 How to reach me **allanlealluz@gmail.com**  **https://app.rocketseat.com.br/me/allan-leal-da-luz-03951** and **https://www.codewars.com/users/allanlealluz**
