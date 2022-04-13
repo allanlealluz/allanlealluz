@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django** and **React**
 
-- 📫 How to reach me **allanlealluz@gmail.com**  **https://www.linkedin.com/in/allanleal16** and **https://www.codewars.com/users/allanlealluz**
+- 📫 How to reach me **allanlealluz@gmail.com**  **https://www.linkedin.com/in/allanleal16** ,**https://www.codewars.com/users/allanlealluz** and **https://www.khanacademy.org/profile/allan17allone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
