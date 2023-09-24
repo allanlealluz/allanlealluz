@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **allanlealluz@gmail.com**  **https://www.linkedin.com/in/allanleal16** ,**https://www.codewars.com/users/allanlealluz** and **https://www.khanacademy.org/profile/allan17allone**
+- 📫 How to reach me **allanlealluz@gmail.com**  **https://www.linkedin.com/in/allan-leal-programmer/** ,**https://www.codewars.com/users/allanlealluz** and **https://www.khanacademy.org/profile/allan17allone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/allan-leal-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/allan-leal-programmer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/allan-leal-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/allan-leal-programmer" height="30" width="40" /></a>
 <a href="https://instagram.com/allanevil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="allanevil" height="30" width="40" /></a>
 </p>
 <h3 align="left">Follow my studies:</h3>
