@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allanlealluz" alt="allanlealluz" /></a></p>
 <p align="left"> <img src="https://www.codewars.com/users/allanlealluz/badges/large"></p>
 
-- 🌱 I’m currently learning **Web and Mobile learning in Senai**
+- 🌱 I’m currently learning **Development in Web and Mobile on Senai**
 
 - 📫 How to reach me **allanlealluz@gmail.com**  **https://www.linkedin.com/in/allan-leal-programmer/** ,**https://www.codewars.com/users/allanlealluz** and **https://www.khanacademy.org/profile/allan17allone**
 
