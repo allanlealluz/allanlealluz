@@ -9,7 +9,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=allanlealluz" alt="GitHub Trophies" />
   </a>
 </p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanlealluz)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> 
   <a href="https://www.codewars.com/users/allanlealluz">
     <img src="https://www.codewars.com/users/allanlealluz/badges/large" alt="Codewars Badges" />
