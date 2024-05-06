@@ -11,8 +11,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=allanlealluz" alt="GitHub Trophies" />
   </a>
 </p>
-<img src="https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)"/>
-
 <p align="left"> 
   <a href="https://www.codewars.com/users/allanlealluz">
     <img src="https://www.codewars.com/users/allanlealluz/badges/large" alt="Codewars Badges" />
