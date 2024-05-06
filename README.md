@@ -90,7 +90,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="Snake Eating Commit Logger" width="400" height="225" />
-  <img src="https://media.giphy.com/media/26gs6dR7cQLCPf7C0/giphy.gif" alt="Dancing Robot" width="400" height="225" />
 </p>
 
 <p>
