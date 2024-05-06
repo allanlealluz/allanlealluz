@@ -9,7 +9,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=allanlealluz" alt="GitHub Trophies" />
   </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanlealluz)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)"/>
+
 <p align="left"> 
   <a href="https://www.codewars.com/users/allanlealluz">
     <img src="https://www.codewars.com/users/allanlealluz/badges/large" alt="Codewars Badges" />
@@ -93,7 +94,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allanlealluz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allanlealluz&show_icons=true&locale=en&layout=compact&hide=tcl,c" alt="Top Languages" />
 </p>
 
 <p>
