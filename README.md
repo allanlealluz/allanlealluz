@@ -1,27 +1,30 @@
 <h3 align="center">Hi, I'm Allan 👋</h3>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=allanlealluz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
+<p align="right">
 <a href="https://github.com/allanlealluz/Allan">
-<img  src="https://img.shields.io/badge/-PORTFOLIO-informational?style=for-the-badge&color=brigthgreen"></img>
+<img  src="https://img.shields.io/badge/-PORTFOLIO-informational?style=for-the-badge&color=red"></img>
 </a>
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=allanlealluz" alt="GitHub Trophies" />
-  </a>
-</p>
-<p align="left"> 
+
   <a href="https://www.codewars.com/users/allanlealluz">
     <img src="https://www.codewars.com/users/allanlealluz/badges/large" alt="Codewars Badges" />
   </a>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+</p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=allanlealluz&theme=onedark&row=2&column=3)(https://github.com/ryo-ma/github-profile-trophy)" alt="GitHub Trophies" />
+  </a>
+
+</p>
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="500" height="300" />
