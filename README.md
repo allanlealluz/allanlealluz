@@ -24,18 +24,19 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="500" height="300" />
 </p>
-
+<p align='center'>
 - 🌱 I’m currently learning **Web and Mobile Development at Senai**
-
+<ul align='center' style='list-style-type: none;;text-decoration:none;'>
 - 📫 How to reach me:
-  - Email: [allanlealluz@gmail.com](mailto:allanlealluz@gmail.com)
-  - LinkedIn: [allan-leal-programmer](https://www.linkedin.com/in/allan-leal-programmer/)
-  - Instagram: [allanevil](https://instagram.com/allanevil)
-  - Codewars: [allanlealluz](https://www.codewars.com/users/allanlealluz)
-  - Khan Academy: [allan17allone](https://www.khanacademy.org/profile/allan17allone)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+  <li>Email: [allanlealluz@gmail.com](mailto:allanlealluz@gmail.com)</li>
+ <li> LinkedIn: [allan-leal-programmer](https://www.linkedin.com/in/allan-leal-programmer/)</li>
+  <li>Instagram: [allanevil](https://instagram.com/allanevil)</li>
+  <li>Codewars: [allanlealluz](https://www.codewars.com/users/allanlealluz)</li>
+  <li>Khan Academy: [allan17allone](https://www.khanacademy.org/profile/allan17allone)</li>
+</ul>
+</p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/allan-leal-programmer" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -44,11 +45,11 @@
   </a>
 </p>
 
-<h3 align="left">Follow my studies:</h3>
-<p>https://roadmap.sh/backend?s=64e76ceeb128dce3cb700c48</p>
+<h3 align="center">Follow my studies:</h3>
+<p align='center'>https://roadmap.sh/backend?s=64e76ceeb128dce3cb700c48</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
   </a>
@@ -91,10 +92,10 @@
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="Snake Eating Commit Logger" width="400" height="225" />
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allanlealluz&show_icons=true&locale=en&layout=compact&hide=tcl,c" alt="Top Languages" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allanlealluz&show_icons=true&locale=en&layout=compact&hide=tcl,c" alt="Top Languages" />
 </p>
 
-<p>
+<p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=allanlealluz&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
