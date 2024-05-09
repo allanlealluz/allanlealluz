@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning **Web and Mobile Development at Senai**
 <ul align='center' style='list-style-type: none;;text-decoration:none;'>
 - 📫 How to reach me:
-  <li>Email: [allanlealluz@gmail.com](mailto:allanlealluz@gmail.com)</li>
+  <li>Email: allanlealluz@gmail.com</li>
  <li> LinkedIn: [allan-leal-programmer](https://www.linkedin.com/in/allan-leal-programmer/)</li>
   <li>Instagram: [allanevil](https://instagram.com/allanevil)</li>
   <li>Codewars: [allanlealluz](https://www.codewars.com/users/allanlealluz)</li>
