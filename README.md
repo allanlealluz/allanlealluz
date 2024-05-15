@@ -25,14 +25,7 @@
 
 <p align="center">🌱 I’m currently learning Web and Mobile Development at Senai</p>
 
-<ul align="center">
-  <li>📫 How to reach me:</li>
-  <li>Email: <a href="mailto:allanlealluz@gmail.com">allanlealluz@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/allan-leal-programmer/" target="_blank">allan-leal-programmer</a></li>
-  <li>Instagram: <a href="https://instagram.com/allanevil" target="_blank">allanevil</a></li>
-  <li>Codewars: <a href="https://www.codewars.com/users/allanlealluz" target="_blank">allanlealluz</a></li>
-  <li>Khan Academy: <a href="https://www.khanacademy.org/profile/allan17allone" target="_blank">allan17allone</a></li>
-</ul>
+<p align="center">📫 How to reach me: <a href="mailto:allanlealluz@gmail.com">allanlealluz@gmail.com</a> | <a href="https://www.linkedin.com/in/allan-leal-programmer/" target="_blank">LinkedIn</a> | <a href="https://instagram.com/allanevil" target="_blank">Instagram</a> | <a href="https://www.codewars.com/users/allanlealluz" target="_blank">Codewars</a> | <a href="https://www.khanacademy.org/profile/allan17allone" target="_blank">Khan Academy</a></p>
 
 <h3 align="center">Connect with me:</h3>
 
@@ -106,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allanlealluz&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allanlealluz&show_icons=true&locale=en&hide=issues,prs,contribs" alt="GitHub Stats" />
 </p>
 
 <h3 align="center">Check out my projects:</h3>
