@@ -92,6 +92,9 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" />
   </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
 </p>
 
 <p align="center">
@@ -104,4 +107,14 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=allanlealluz&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<h3 align="center">Check out my projects:</h3>
+
+<p align="center">
+  <a href="https://github.com/allanlealluz/Shadow_OF_Condor" target="_blank">Shadow OF Condor</a> - A project using the system of paranormal order.
+</p>
+
+<p align="center">
+  <a href="https://github.com/allanlealluz/Allan" target="_blank">My Portfolio - Allan</a> - My personal portfolio.
 </p>
