@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://roadmap.sh/backend?s=64e76ceeb128dce3cb700c48">
-    <img src="https://roadmap.sh/roadmaps/backend.png" alt="Backend Roadmap" />
+roadmap
   </a>
 </p>
 
