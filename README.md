@@ -40,11 +40,6 @@
 
 <h3 align="center">Follow my studies:</h3>
 
-<p align="center">
-  <a href="https://roadmap.sh/backend?s=64e76ceeb128dce3cb700c48">
-    <img src="https://roadmap.sh/roadmaps/backend.png" alt="Backend Roadmap" />
-  </a>
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 
