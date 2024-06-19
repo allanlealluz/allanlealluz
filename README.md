@@ -23,18 +23,9 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="500" height="300" />
 </p>
 
-<p align="center">
-  🌱 I’m currently learning Web and Mobile Development at Senai
-</p>
+<p align="center">🌱 I’m currently learning Web and Mobile Development at Senai</p>
 
-<p align="center">
-  📫 How to reach me:
-  <a href="mailto:allanlealluz@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/allan-leal-programmer/" target="_blank">LinkedIn</a> |
-  <a href="https://instagram.com/allanevil" target="_blank">Instagram</a> |
-  <a href="https://www.codewars.com/users/allanlealluz" target="_blank">Codewars</a> |
-  <a href="https://www.khanacademy.org/profile/allan17allone" target="_blank">Khan Academy</a>
-</p>
+<p align="center">📫 How to reach me: <a href="mailto:allanlealluz@gmail.com">allanlealluz@gmail.com</a> | <a href="https://www.linkedin.com/in/allan-leal-programmer/" target="_blank">LinkedIn</a> | <a href="https://instagram.com/allanevil" target="_blank">Instagram</a> | <a href="https://www.codewars.com/users/allanlealluz" target="_blank">Codewars</a> | <a href="https://www.khanacademy.org/profile/allan17allone" target="_blank">Khan Academy</a></p>
 
 <h3 align="center">Connect with me:</h3>
 
@@ -51,7 +42,7 @@
 
 <p align="center">
   <a href="https://roadmap.sh/backend?s=64e76ceeb128dce3cb700c48">
-roadmap
+    <img src="https://roadmap.sh/roadmaps/backend.png" alt="Backend Roadmap" />
   </a>
 </p>
 
@@ -61,7 +52,42 @@ roadmap
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
   </a>
-  <!-- Add more icons as needed -->
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React JS" width="40" height="40" />
+  </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
 </p>
 
 <p align="center">
