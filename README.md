@@ -19,9 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="500" height="300" />
-</p>
 
 <p align="center">🌱 I’m currently learning Web and Mobile Development at Senai</p>
 
