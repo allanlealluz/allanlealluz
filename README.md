@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/allanlealluz/Allan">
-    <img src="https://img.shields.io/badge/-PORTFOLIO-informational?style=for-the-badge&color=red" alt="Portfolio" />
-  </a>
   <a href="https://www.codewars.com/users/allanlealluz">
     <img src="https://www.codewars.com/users/allanlealluz/badges/large" alt="Codewars Badges" />
   </a>
