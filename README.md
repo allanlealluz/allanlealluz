@@ -1,8 +1,8 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 <h1 align="center">I'm Allan </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=allanlealluz&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-<img src="https://github.com/allanlealluz/allanlealluz/assets/69430214/41237d05-8a15-407b-8cff-19f581f5c9eb">
+<p align="center" class='text-dark'>
+<img src="https://github.com/allanlealluz/allanlealluz/assets/69430214/41237d05-8a15-407b-8cff-19f581f5c9eb" style="width:7=800px;height:400px;">
 
 </p>
 
