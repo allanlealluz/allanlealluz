@@ -91,7 +91,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allanlealluz&show_icons=true&locale=pt-br&hide=issues,contribs" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allanlealluz&show_icons=true&locale=us&hide=issues,contribs" alt="GitHub Stats" />
 </p>
 
 <h3 align="center">Check out my projects:</h3>
