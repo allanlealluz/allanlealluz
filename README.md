@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=allanlealluz&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://github.com/allanlealluz/allanlealluz/assets/69430214/41237d05-8a15-407b-8cff-19f581f5c9eb">
+
 </p>
 
 <p align="center">
