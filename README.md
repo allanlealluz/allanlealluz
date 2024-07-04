@@ -1,9 +1,7 @@
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-<h1 align="center">I'm Allan </h1>
+<h1 align="center" style="color: #00FF00;">I'm Allan</h1>
 
 <p align="center" class='text-dark'>
-<img src="https://github.com/allanlealluz/allanlealluz/assets/69430214/41237d05-8a15-407b-8cff-19f581f5c9eb" style="width:7=800px;height:400px;">
-
+  <img src="https://github.com/allanlealluz/allanlealluz/assets/69430214/41237d05-8a15-407b-8cff-19f581f5c9eb" style="width: 800px; height: 400px;">
 </p>
 
 <p align="center">
@@ -18,12 +16,17 @@
   </a>
 </p>
 
+<p align="center" style="text-color: #00FF00;">🌱 I’m currently learning Web and Mobile Development at Senai</p>
 
-<p align="center">🌱 I’m currently learning Web and Mobile Development at Senai</p>
+<p align="center" style="color: #00FF00;">📫 How to reach me: 
+  <a href="mailto:allanlealluz@gmail.com" style="color: #00FF00;">allanlealluz@gmail.com</a> | 
+  <a href="https://www.linkedin.com/in/allan-leal-programmer/" target="_blank" style="color: #00FF00;">LinkedIn</a> | 
+  <a href="https://instagram.com/allanevil" target="_blank" style="color: #00FF00;">Instagram</a> | 
+  <a href="https://www.codewars.com/users/allanlealluz" target="_blank" style="color: #00FF00;">Codewars</a> | 
+  <a href="https://www.khanacademy.org/profile/allan17allone" target="_blank" style="color: #00FF00;">Khan Academy</a>
+</p>
 
-<p align="center">📫 How to reach me: <a href="mailto:allanlealluz@gmail.com">allanlealluz@gmail.com</a> | <a href="https://www.linkedin.com/in/allan-leal-programmer/" target="_blank">LinkedIn</a> | <a href="https://instagram.com/allanevil" target="_blank">Instagram</a> | <a href="https://www.codewars.com/users/allanlealluz" target="_blank">Codewars</a> | <a href="https://www.khanacademy.org/profile/allan17allone" target="_blank">Khan Academy</a></p>
-
-<h3 align="center">Connect with me:</h3>
+<h3 align="center" style="color: #00FF00;">Connect with me:</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/allan-leal-programmer" target="_blank">
@@ -34,10 +37,9 @@
   </a>
 </p>
 
-<h3 align="center">Follow my studies:</h3>
+<h3 align="center" style="color: #00FF00;">Follow my studies:</h3>
 
-
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center" style="color: #00FF00;">Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank">
@@ -86,20 +88,19 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allanlealluz&show_icons=true&locale=en&layout=compact&hide=tcl,c,hack&theme=dark"
-    media="(prefers-color-scheme: dark)" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allanlealluz&show_icons=true&locale=en&layout=compact&hide=tcl,c,hack&theme=chartreuse-dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allanlealluz&show_icons=true&locale=en&hide=issues,contribs&theme=dark" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allanlealluz&show_icons=true&locale=en&hide=issues,contribs&theme=chartreuse-dark" alt="GitHub Stats" />
 </p>
 
-<h3 align="center">Check out my projects:</h3>
+<h3 align="center" style="color: #00FF00;">Check out my projects:</h3>
 
 <p align="center">
-  <a href="https://github.com/allanlealluz/Shadow_OF_Condor" target="_blank">Shadow OF Condor</a> - A project using the system of paranormal order.
+  <a href="https://github.com/allanlealluz/Shadow_OF_Condor" target="_blank" style="color: #00FF00;">Shadow OF Condor</a> - A project using the system of paranormal order.
 </p>
 
 <p align="center">
-  <a href="https://github.com/allanlealluz/Allan" target="_blank">My Portfolio - Allan</a> - My personal portfolio.
+  <a href="https://github.com/allanlealluz/Allan" target="_blank" style="color: #00FF00;">My Portfolio - Allan</a> - My personal portfolio.
 </p>
