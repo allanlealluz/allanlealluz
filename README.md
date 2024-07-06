@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allanlealluz&show_icons=true&locale=en&layout=compact&hide=tcl,hack&theme=chartreuse-dark" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allanlealluz&show_icons=true&locale=en&layout=compact&hide=tcl,c,hack&theme=chartreuse-dark" alt="Top Languages" />
 </p>
 
 <p align="center">
