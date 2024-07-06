@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.codewars.com/users/allanlealluz">
-    <img src="https://www.codewars.com/users/allanlealluz/badges/large" alt="Codewars Badges" />
+    <img src="https://www.codewars.com/users/allanlealluz/badges/micro" alt="Codewars Badges" />
   </a>
 </p>
 
