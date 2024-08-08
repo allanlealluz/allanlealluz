@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<p align="center" style="text-color: #00FF00;">🌱 I’m currently learning Web and Mobile Development at Senai</p>
+<p align="center" style="text-color: #00FF00;">🌱 I’m currently learning System Development and Python in SENAI</p>
 
 <p align="center" style="color: #00FF00;">📫 How to reach me: 
   <a href="mailto:allanlealluz@gmail.com" style="color: #00FF00;">allanlealluz@gmail.com</a> | 
