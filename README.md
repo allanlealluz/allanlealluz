@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=allanlealluz&theme=matrix&row=2&column=3" alt="GitHub Trophies of Allan the One" />
+    <img src="https://github-profile-trophy.vercel.app/?username=allanlealluz&theme=matrix&row=3&column=3" alt="GitHub Trophies of Allan the One" />
   </a>
 </p>
 
@@ -92,7 +92,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allanlealluz&show_icons=true&locale=en&hide=issues&theme=chartreuse-dark" alt="GitHub Stats of Allan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allanlealluz&show_icons=true&locale=uk&hide=issues&theme=chartreuse-dark" alt="GitHub Stats of Allan the one" />
 </p>
 
 <h3 align="center" style="color: #00FF00;">Check out my projects:</h3>
