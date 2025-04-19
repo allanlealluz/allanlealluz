@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #00FF00;">Allan Leal</h1>
-![snake gif](https://github.com/allanlealluz/allanlealluz/blob/output/github-contribution-grid-snake.svg)
+
 
 <p align="center">
   🌱 Desenvolvedor em formação no <strong>SENAI</strong> e estudante universitário na <strong>Fatec</strong><br>
