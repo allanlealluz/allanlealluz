@@ -1,4 +1,8 @@
-<h1 align="center" style="color:#39FF14;">👨‍💻 Allan Leal</h1>
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=33FF4F&center=true&vCenter=true&width=435&lines=Allan+Leal;Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+Sistemas;Apaixonado+por+tecnologia" alt="Typing SVG" /></a>
+
+<br>
 
 <p align="center">
   🌱 <strong>Desenvolvedor em formação</strong> no <strong>SENAI</strong> e estudante universitário na <strong>Fatec</strong><br>
@@ -22,7 +26,11 @@
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="45"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45"/></a>
 </p>
+## 🐍 Meu Gráfico de Contribuições
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/allanlealluz/allanlealluz/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
 ---
 
 ## 🏆 Conquistas & Destaques
