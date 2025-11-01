@@ -1,27 +1,26 @@
-<h1 align="center" style="color: #00FF00;">Allan Leal</h1>
-
+<h1 align="center" style="color:#39FF14;">👨‍💻 Allan Leal</h1>
 
 <p align="center">
-  🌱 Desenvolvedor em formação no <strong>SENAI</strong> e estudante universitário na <strong>Fatec</strong><br>
-  💻 Apaixonado por desenvolvimento, sistemas inteligentes e tecnologia<br>
-  🧠 Sempre buscando novos desafios e aprendizados
+  🌱 <strong>Desenvolvedor em formação</strong> no <strong>SENAI</strong> e estudante universitário na <strong>Fatec</strong><br>
+  💻 Apaixonado por <strong>desenvolvimento, sistemas inteligentes e tecnologia</strong><br>
+  🧠 Sempre em busca de novos <strong>desafios</strong> e <strong>aprendizados</strong>
 </p>
 
 ---
 
-## 🧰 Skills & Ferramentas
+## ⚙️ Tech Stack
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="45"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="45"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45"/></a>
 </p>
 
 ---
@@ -35,43 +34,58 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=allanlealluz&theme=matrix&row=2&column=4" alt="Troféus GitHub" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=allanlealluz&theme=matrix&row=2&column=4" alt="Troféus GitHub" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanlealluz&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanlealluz&layout=compact&theme=chartreuse-dark&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=allanlealluz&show_icons=true&theme=chartreuse-dark&hide=issues" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=allanlealluz&theme=chartreuse-dark" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## 🚀 Projetos em Destaque
 
-- 🎲 [**Shadow OF Condor**](https://github.com/allanlealluz/Shadow_OF_Condor): Sistema de RPG baseado em Ordem Paranormal com ambientação policial e política.
-- 💼 [**Meu Portfólio - Allan**](https://github.com/allanlealluz/Allan): Apresentação dos meus projetos e experiências.
-- 🔬 [**C2W - Samsung Innovation Campus**](https://github.com/allanlealluz/C2W-SAMSUNG_Project): Projeto acadêmico com foco em inovação tecnológica.
+- 🎲 [**Shadow OF Condor**](https://github.com/allanlealluz/Shadow_OF_Condor): RPG policial e político inspirado em *Ordem Paranormal*, com sistemas de investigação e elementos sobrenaturais.
+- 🏢 [**Levelog**](https://github.com/allanlealluz/Levelog): Vitrine interativa de jogos com backend em Java (DDD + Spring Boot) e frontend dinâmico em JavaScript.
+- 💼 [**Meu Portfólio - Allan**](https://github.com/allanlealluz/Allan): Site pessoal apresentando projetos, formações e trajetória acadêmica.
+- 🔬 [**C2W - Samsung Innovation Campus**](https://github.com/allanlealluz/C2W-SAMSUNG_Project): Projeto de inovação tecnológica desenvolvido com a Samsung e orientado ao aprendizado de IA e IoT.
+
+---
+
+## 🧠 Foco Atual
+
+> - Aprimorar arquitetura de software com **Domain-Driven Design (DDD)**  
+> - Aprofundar conhecimento em **Spring Boot e APIs RESTful**  
+> - Explorar **integrações com IA e automação inteligente**  
+> - Contribuir com projetos open source e acadêmicos  
 
 ---
 
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:allanlealluz@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/allan-leal-programmer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/allanevil" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.codewars.com/users/allanlealluz" target="_blank"><img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" /></a>
-  <a href="https://www.khanacademy.org/profile/allan17allone" target="_blank"><img src="https://img.shields.io/badge/KhanAcademy-green?style=for-the-badge&logo=khanacademy&logoColor=white" /></a>
+  <a href="mailto:allanlealluz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/allan-leal-programmer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/allanevil" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.codewars.com/users/allanlealluz" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" /></a>
+  <a href="https://www.khanacademy.org/profile/allan17allone" target="_blank"><img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=khanacademy&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">💡 <em>"Aprendizado contínuo é o motor da inovação."</em></p>
+<p align="center">
+  <em>💡 “Aprendizado contínuo é o motor da inovação.”</em><br>
+  <img src="https://github.com/AllanLealLuz.png" width="80" style="border-radius:50%; margin-top:10px;" alt="Allan Leal Profile"/>
+</p>
