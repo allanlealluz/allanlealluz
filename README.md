@@ -26,11 +26,6 @@
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="45"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45"/></a>
 </p>
-## 🐍 Meu Gráfico de Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/allanlealluz/allanlealluz/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
 ---
 
 ## 🏆 Conquistas & Destaques
