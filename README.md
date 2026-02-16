@@ -1,94 +1,126 @@
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=33FF4F&center=true&vCenter=true&width=500&lines=Hello%2C+World!+%F0%9F%91%8B;Eu+sou+Allan+Leal;Java+Spring+Developer;Apaixonado+por+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
+  </a>
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=33FF4F&center=true&vCenter=true&width=435&lines=Allan+Leal;Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+Sistemas;Apaixonado+por+tecnologia" alt="Typing SVG" /></a>
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0da11f,022c07&height=100&section=header&text=&fontSize=90" width="100%"/>
+  
+  <h3>🚀 Software Developer em Formação | Java & Spring Ecosystem</h3>
+  
+  <p width="400px">
+    Atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong> (Fatec) e especialização técnica no <strong>SENAI</strong>. <br>
+    Meu foco é criar arquiteturas robustas, escaláveis e explorar o potencial da Inteligência Artificial.
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=allanlealluz&style=flat-square&color=brightgreen&label=Profile+Views" alt="Profile Views"/>
+</div>
 
 <br>
 
-<p align="center">
-  🌱 <strong>Desenvolvedor em formação</strong> no <strong>SENAI</strong> e estudante universitário na <strong>Fatec</strong><br>
-  💻 Apaixonado por <strong>desenvolvimento, sistemas inteligentes e tecnologia</strong><br>
-  🧠 Sempre em busca de novos <strong>desafios</strong> e <strong>aprendizados</strong>
-</p>
+<table align="center">
+  <tr>
+    <td align="left" width="50%">
+      <h3>🧠 Foco & Estudos</h3>
+      <ul>
+        <li>🔭 <strong>Atualmente em:</strong> Arquitetura de Software (DDD) & Spring Boot Avançado.</li>
+        <li>🌱 <strong>Aprendendo:</strong> Integração de LLMs (IA) com Java e Microsserviços.</li>
+        <li>👯 <strong>Procurando:</strong> Colaborar em projetos Open Source e Hackathons.</li>
+        <li>💬 <strong>Pergunte-me sobre:</strong> Java, POO, REST APIs e Lógica de Programação.</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <h3>🏆 Conquistas</h3>
+      <a href="https://www.codewars.com/users/allanlealluz">
+        <img src="https://www.codewars.com/users/allanlealluz/badges/micro" alt="Codewars Badge" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Samsung-Innovation_Campus-blue?style=flat-square&logo=samsung" />
+      <img src="https://img.shields.io/badge/Fatec-Universitário-red?style=flat-square&logo=book" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚙️ Tech Stack
+<h2 align="center">🛠️ Arsenal Tecnológico</h2>
 
-<p align="center">
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="45"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="45"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45"/></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Backend & Core</strong></td>
+      <td align="center"><strong>Frontend & Web</strong></td>
+      <td align="center"><strong>DevOps & Tools</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java,spring,python,mysql" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,docker,firebase,vscode" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
-## 🏆 Conquistas & Destaques
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <a href="https://www.codewars.com/users/allanlealluz">
-    <img src="https://www.codewars.com/users/allanlealluz/badges/micro" alt="Codewars Badge" />
+<div align="center">
+  <a href="https://github.com/allanlealluz">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=allanlealluz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanlealluz&layout=compact&theme=react&langs_count=6"/>
   </a>
-</p>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=allanlealluz&theme=react&border_radius=4.5" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=allanlealluz&theme=matrix&row=2&column=4" alt="Troféus GitHub" />
-</p>
+<br>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanlealluz&layout=compact&theme=chartreuse-dark&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allanlealluz&show_icons=true&theme=chartreuse-dark&hide=issues" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=allanlealluz&theme=chartreuse-dark" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=allanlealluz&theme=flat&row=1&column=6&margin-w=15&margin-h=15" alt="Troféus GitHub" />
+</div>
 
 ---
 
-## 🚀 Projetos em Destaque
+<h2 align="center">🚀 Projetos em Destaque</h2>
 
-- 🎲 [**Shadow OF Condor**](https://github.com/allanlealluz/Shadow_OF_Condor): RPG policial e político inspirado em *Ordem Paranormal*, com sistemas de investigação e elementos sobrenaturais.
-- 🏢 [**Levelog**](https://github.com/allanlealluz/Levelog): Vitrine interativa de jogos com backend em Java (DDD + Spring Boot) e frontend dinâmico em JavaScript.
-- 💼 [**Meu Portfólio - Allan**](https://github.com/allanlealluz/Allan): Site pessoal apresentando projetos, formações e trajetória acadêmica.
-- 🔬 [**C2W - Samsung Innovation Campus**](https://github.com/allanlealluz/C2W-SAMSUNG_Project): Projeto de inovação tecnológica desenvolvido com a Samsung e orientado ao aprendizado de IA e IoT.
-
----
-
-## 🧠 Foco Atual
-
-> - Aprimorar arquitetura de software com **Domain-Driven Design (DDD)**  
-> - Aprofundar conhecimento em **Spring Boot e APIs RESTful**  
-> - Explorar **integrações com IA e automação inteligente**  
-> - Contribuir com projetos open source e acadêmicos  
+| Projeto | Stack | Descrição |
+| :--- | :---: | :--- |
+| **[Shadow OF Condor](https://github.com/allanlealluz/Shadow_OF_Condor)** | `Java` `RPG` | RPG policial e político inspirado em Ordem Paranormal. Possui sistemas complexos de investigação e combate. |
+| **[Levelog](https://github.com/allanlealluz/Levelog)** | `Java` `Spring` `JS` | Vitrine interativa de jogos. Implementa **DDD**, Spring Boot no backend e frontend dinâmico. |
+| **[Meu Portfólio](https://github.com/allanlealluz/Allan)** | `HTML` `CSS` | Site pessoal apresentando trajetória acadêmica e profissional com design responsivo. |
+| **[C2W - Samsung](https://github.com/allanlealluz/C2W-SAMSUNG_Project)** | `IoT` `AI` `Python` | Projeto de inovação desenvolvido no **Samsung Innovation Campus**, focado em IA e automação. |
 
 ---
 
-## 📫 Contato
+<div align="center">
+  <h3>📫 Vamos nos conectar?</h3>
+  
+  <a href="https://www.linkedin.com/in/allan-leal-programmer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:allanlealluz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://instagram.com/allanevil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.codewars.com/users/allanlealluz" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" target="_blank" />
+  </a>
 
-<p align="center">
-  <a href="mailto:allanlealluz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/allan-leal-programmer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/allanevil" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.codewars.com/users/allanlealluz" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" /></a>
-  <a href="https://www.khanacademy.org/profile/allan17allone" target="_blank"><img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=khanacademy&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <em>💡 “Aprendizado contínuo é o motor da inovação.”</em><br>
-  <img src="https://github.com/AllanLealLuz.png" width="80" style="border-radius:50%; margin-top:10px;" alt="Allan Leal Profile"/>
-</p>
+  <br><br>
+  
+  <p>
+    <em>“Talk is cheap. Show me the code.” – Linus Torvalds</em>
+  </p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=022c07,0da11f&height=60&section=footer"/>
+</div>
