@@ -121,6 +121,13 @@ Meu foco está em arquitetura de software, desenvolvimento web e sistemas inteli
 
 <div align="center">
 
+<!-- Cards gerados pelo workflow profile-summary-cards.yml e salvos neste próprio repositório -->
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" alt="Resumo do perfil" />
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Estatísticas" />
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Linguagens por repositório" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Linguagens com mais commits" />
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="60%" alt="Horário mais produtivo" />
+
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=allanlealluz&locale=pt_BR&background=0d1117&ring=33FF4F&fire=0DA11F&currStreakNum=33FF4F&currStreakLabel=33FF4F&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border=0DA11F&stroke=0DA11F55&border_radius=12" alt="Sequência de contribuições" />
