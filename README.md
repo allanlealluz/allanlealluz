@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Cabeçalho animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c07,100:0da11f&height=220&section=header&text=Allan%20Leal&fontSize=64&fontColor=33ff4f&fontAlignY=38&animation=twinkling&desc=Desenvolvedor%20Full%20Stack%20%7C%20Java%20%7C%20PHP%20%7C%20Python&descSize=20&descColor=c9d1d9&descAlignY=60" width="100%" alt="Allan Leal - Desenvolvedor Full Stack" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c07,100:0da11f&height=220&section=header&text=Allan%20Leal&fontSize=64&fontColor=33ff4f&fontAlignY=38&animation=twinkling&desc=Desenvolvedor%20Full%20Stack%20%7C%20Java%20%7C%20Python%20%7C%20JavaScript&descSize=20&descColor=c9d1d9&descAlignY=60" width="100%" alt="Allan Leal - Desenvolvedor Full Stack" />
 
 <!-- Texto digitando -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=33FF4F&center=true&vCenter=true&width=720&height=60&lines=Ol%C3%A1%2C+eu+sou+Allan+Leal;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+%7C+PHP+%7C+Python;Construindo+solu%C3%A7%C3%B5es+com+prop%C3%B3sito" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=33FF4F&center=true&vCenter=true&width=720&height=60&lines=Ol%C3%A1%2C+eu+sou+Allan+Leal;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+%7C+Python+%7C+JavaScript;Construindo+solu%C3%A7%C3%B5es+com+prop%C3%B3sito" alt="Apresentação animada" />
 </a>
 
 <br/>
 
-<!-- Badges de status -->
+<!-- Badges de formação -->
 <img src="https://img.shields.io/badge/Fatec-ADS-b31b1b?style=for-the-badge&labelColor=022c07" alt="Fatec - Análise e Desenvolvimento de Sistemas" />
 <img src="https://img.shields.io/badge/SENAI-Formação%20Técnica-0da11f?style=for-the-badge&labelColor=022c07" alt="SENAI" />
 <img src="https://img.shields.io/badge/Samsung-Innovation%20Campus-1428a0?style=for-the-badge&logo=samsung&logoColor=white&labelColor=022c07" alt="Samsung Innovation Campus" />
@@ -32,7 +32,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec**, com forma�
 Meu foco está em arquitetura de software, desenvolvimento web e sistemas inteligentes.
 
 - 🔭 Estudando **arquitetura de software** e **desenvolvimento web full stack**
-- ⚙️ Trabalhando principalmente com **Java, Spring, PHP e Python**
+- ⚙️ Trabalhando principalmente com **Java, Spring, Python e JavaScript**
 - 🤝 Buscando colaborar em projetos **open source**, hackathons e iniciativas de inovação
 - 💬 Gosto de conversar sobre lógica de programação, desenvolvimento web e gestão ágil com Jira
 
@@ -44,7 +44,7 @@ Meu foco está em arquitetura de software, desenvolvimento web e sistemas inteli
 
 **Backend e dados**
 
-<img src="https://skillicons.dev/icons?i=java,spring,php,python,mysql&theme=dark&perline=5" alt="Java, Spring, PHP, Python e MySQL" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql&theme=dark&perline=4" alt="Java, Spring, Python e MySQL" />
 
 **Frontend e web**
 
@@ -60,36 +60,48 @@ Meu foco está em arquitetura de software, desenvolvimento web e sistemas inteli
 
 ## 🚀 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/allanlealluz/Shadow_OF_Condor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=allanlealluz&repo=Shadow_OF_Condor&bg_color=0d1117&title_color=33ff4f&text_color=c9d1d9&icon_color=0da11f&border_color=0da11f&border_radius=12" alt="Shadow of Condor" />
-</a>
-<a href="https://github.com/allanlealluz/Levelog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=allanlealluz&repo=Levelog&bg_color=0d1117&title_color=33ff4f&text_color=c9d1d9&icon_color=0da11f&border_color=0da11f&border_radius=12" alt="Levelog" />
-</a>
-<br/>
-<a href="https://github.com/allanlealluz/C2W-SAMSUNG_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=allanlealluz&repo=C2W-SAMSUNG_Project&bg_color=0d1117&title_color=33ff4f&text_color=c9d1d9&icon_color=0da11f&border_color=0da11f&border_radius=12" alt="C2W Samsung" />
-</a>
-<a href="https://github.com/allanlealluz/Allan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=allanlealluz&repo=Allan&bg_color=0d1117&title_color=33ff4f&text_color=c9d1d9&icon_color=0da11f&border_color=0da11f&border_radius=12" alt="Meu portfólio" />
-</a>
-
-</div>
-
-<details>
-<summary><b>📖 Sobre cada projeto</b></summary>
-<br/>
-
-| Projeto | Tecnologias | Sobre o projeto |
-| --- | --- | --- |
-| [**Shadow of Condor**](https://github.com/allanlealluz/Shadow_OF_Condor) | `PHP` `Web` | RPG policial e político inspirado em *Ordem Paranormal*, com investigação e elementos sobrenaturais. |
-| [**Levelog**](https://github.com/allanlealluz/Levelog) | `Java` `Spring` | Vitrine interativa de jogos com arquitetura baseada em DDD, Spring Boot e frontend dinâmico. |
-| [**Meu portfólio**](https://github.com/allanlealluz/Allan) | `HTML` `CSS` | Site pessoal responsivo com minha trajetória acadêmica e profissional. |
-| [**C2W — Samsung**](https://github.com/allanlealluz/C2W-SAMSUNG_Project) | `IoT` `Python` | Projeto de inovação criado no Samsung Innovation Campus, com foco em IA e automação. |
-
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/allanlealluz/Shadow_OF_Condor">🕵️ Shadow of Condor</a></h3>
+      <p>RPG policial e político inspirado em <em>Ordem Paranormal</em>, com investigação e elementos sobrenaturais.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Web-0da11f?style=flat-square&labelColor=022c07" alt="Web" />
+      <br/>
+      <img src="https://img.shields.io/github/stars/allanlealluz/Shadow_OF_Condor?style=flat-square&logo=github&labelColor=022c07&color=0da11f&label=stars" alt="Stars" />
+      <img src="https://img.shields.io/github/last-commit/allanlealluz/Shadow_OF_Condor?style=flat-square&labelColor=022c07&color=0da11f&label=%C3%BAltimo%20commit" alt="Último commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/allanlealluz/Levelog">🎮 Levelog</a></h3>
+      <p>Vitrine interativa de jogos com arquitetura baseada em DDD, Spring Boot e frontend dinâmico.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+      <br/>
+      <img src="https://img.shields.io/github/stars/allanlealluz/Levelog?style=flat-square&logo=github&labelColor=022c07&color=0da11f&label=stars" alt="Stars" />
+      <img src="https://img.shields.io/github/last-commit/allanlealluz/Levelog?style=flat-square&labelColor=022c07&color=0da11f&label=%C3%BAltimo%20commit" alt="Último commit" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/allanlealluz/C2W-SAMSUNG_Project">🤖 C2W — Samsung</a></h3>
+      <p>Projeto de inovação criado no Samsung Innovation Campus, com foco em IA e automação.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/IoT-0da11f?style=flat-square&labelColor=022c07" alt="IoT" />
+      <br/>
+      <img src="https://img.shields.io/github/stars/allanlealluz/C2W-SAMSUNG_Project?style=flat-square&logo=github&labelColor=022c07&color=0da11f&label=stars" alt="Stars" />
+      <img src="https://img.shields.io/github/last-commit/allanlealluz/C2W-SAMSUNG_Project?style=flat-square&labelColor=022c07&color=0da11f&label=%C3%BAltimo%20commit" alt="Último commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/allanlealluz/Allan">🌐 Meu portfólio</a></h3>
+      <p>Site pessoal responsivo com minha trajetória acadêmica e profissional.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+      <br/>
+      <img src="https://img.shields.io/github/stars/allanlealluz/Allan?style=flat-square&logo=github&labelColor=022c07&color=0da11f&label=stars" alt="Stars" />
+      <img src="https://img.shields.io/github/last-commit/allanlealluz/Allan?style=flat-square&labelColor=022c07&color=0da11f&label=%C3%BAltimo%20commit" alt="Último commit" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -109,22 +121,16 @@ Meu foco está em arquitetura de software, desenvolvimento web e sistemas inteli
 
 <div align="center">
 
-<a href="https://github.com/allanlealluz">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=allanlealluz&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&locale=pt-br&bg_color=0d1117&title_color=33ff4f&text_color=c9d1d9&icon_color=0da11f&ring_color=33ff4f&border_color=0da11f&border_radius=12" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanlealluz&layout=donut-vertical&langs_count=6&locale=pt-br&bg_color=0d1117&title_color=33ff4f&text_color=c9d1d9&border_color=0da11f&border_radius=12" alt="Linguagens mais usadas" />
-</a>
+<!-- Cards gerados pelo workflow profile-summary-cards.yml e salvos neste próprio repositório -->
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" alt="Resumo do perfil" />
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Estatísticas" />
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Linguagens por repositório" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Linguagens com mais commits" />
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="60%" alt="Horário mais produtivo" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=allanlealluz&locale=pt_BR&background=0d1117&ring=33FF4F&fire=0DA11F&currStreakNum=33FF4F&currStreakLabel=33FF4F&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border=0DA11F&stroke=0DA11F55&border_radius=12" alt="Sequência de contribuições" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=allanlealluz&bg_color=0d1117&color=33ff4f&line=0da11f&point=ffffff&area=true&area_color=0da11f&title_color=33ff4f&hide_border=false&radius=12&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" alt="Gráfico de atividade" width="95%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=allanlealluz&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=12" alt="Troféus do GitHub" />
 
 </div>
 
@@ -134,7 +140,7 @@ Meu foco está em arquitetura de software, desenvolvimento web e sistemas inteli
 
 <div align="center">
 
-<!-- Gerado pelo workflow .github/workflows/snake.yml (veja o arquivo snake.yml) -->
+<!-- Gerado pelo workflow snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allanlealluz/allanlealluz/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allanlealluz/allanlealluz/output/github-snake.svg" />
