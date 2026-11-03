@@ -1,10 +1,9 @@
-
 name: Gerar animação da cobrinha
 
 on:
   schedule:
-    - cron: "0 */12 * * *" 
-  workflow_dispatch: 
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
