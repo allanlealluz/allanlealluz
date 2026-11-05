@@ -62,24 +62,25 @@ Meu foco está em arquitetura de software, desenvolvimento web e sistemas inteli
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/allanlealluz/Shadow_OF_Condor">🕵️ Shadow of Condor</a></h3>
-      <p>RPG policial e político inspirado em <em>Ordem Paranormal</em>, com investigação e elementos sobrenaturais.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Web-0da11f?style=flat-square&labelColor=022c07" alt="Web" />
-      <br/>
-      <img src="https://img.shields.io/github/stars/allanlealluz/Shadow_OF_Condor?style=flat-square&logo=github&labelColor=022c07&color=0da11f&label=stars" alt="Stars" />
-      <img src="https://img.shields.io/github/last-commit/allanlealluz/Shadow_OF_Condor?style=flat-square&labelColor=022c07&color=0da11f&label=%C3%BAltimo%20commit" alt="Último commit" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/allanlealluz/Levelog">🎮 Levelog</a></h3>
-      <p>Vitrine interativa de jogos com arquitetura baseada em DDD, Spring Boot e frontend dinâmico.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
-      <br/>
-      <img src="https://img.shields.io/github/stars/allanlealluz/Levelog?style=flat-square&logo=github&labelColor=022c07&color=0da11f&label=stars" alt="Stars" />
-      <img src="https://img.shields.io/github/last-commit/allanlealluz/Levelog?style=flat-square&labelColor=022c07&color=0da11f&label=%C3%BAltimo%20commit" alt="Último commit" />
-    </td>
+  <td width="50%" valign="top">
+  <h3><a href="https://github.com/allanlealluz/Sombra_Condor_Gerador_Ficha">🕵️ Shadow of Condor</a></h3>
+  <p>Sistema para criação de fichas, gestão de gameplay e organização/armazenamento de roteiros do RPG.</p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Web-0da11f?style=flat-square&labelColor=022c07" alt="Web" />
+  <br/>
+  <img src="https://img.shields.io/github/stars/allanlealluz/Sombra_Condor_Gerador_Ficha?style=flat-square&logo=github&labelColor=022c07&color=0da11f&label=stars" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/allanlealluz/Sombra_Condor_Gerador_Ficha?style=flat-square&labelColor=022c07&color=0da11f&label=%C3%BAltimo%20commit" alt="Último commit" />
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/allanlealluz/Beman">📖 Beman</a></h3>
+  <p>Sistema em JavaScript que consome diversas APIs para exibir frases de Nietzsche, da Bíblia e de Estoicos, além de permitir busca por temas.</p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/API-00599C?style=flat-square&logo=postman&logoColor=white" alt="API" />
+  <img src="https://img.shields.io/badge/Web-0da11f?style=flat-square&labelColor=022c07" alt="Web" />
+  <br/>
+  <img src="https://img.shields.io/github/stars/allanlealluz/Beman?style=flat-square&logo=github&labelColor=022c07&color=0da11f&label=stars" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/allanlealluz/Beman?style=flat-square&labelColor=022c07&color=0da11f&label=%C3%BAltimo%20commit" alt="Último commit" />
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
